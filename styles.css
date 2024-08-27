@@ -1,4 +1,9 @@
 body {
     color: white;
     backgriund: black;
+    margin: 0pxs;
+}
+
+header {
+    border-bottom: solid 1px rgb (64, 63, 163);
 }
